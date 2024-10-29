@@ -59,7 +59,26 @@
                 <h3 class="text-xl mb-2">Masakan Keempat</h3>
                 <p class="text-gray-600">Deskripsi singkat tentang resep ini.</p>
             </div>
-            <!-- Add more cards as needed -->
+            <div class="bg-white rounded-lg shadow-lg p-4">
+                <img src="{{ asset('asset/c8d47cdf-dd2a-466d-9747-17a5d7fd860a.png') }}" alt="Masakan" class="w-full h-40 object-cover rounded-lg mb-4">
+                <h3 class="text-xl mb-2">Masakan Keempat</h3>
+                <p class="text-gray-600">Deskripsi singkat tentang resep ini.</p>
+            </div>
+            <div class="bg-white rounded-lg shadow-lg p-4">
+                <img src="{{ asset('asset/c8d47cdf-dd2a-466d-9747-17a5d7fd860a.png') }}" alt="Masakan" class="w-full h-40 object-cover rounded-lg mb-4">
+                <h3 class="text-xl mb-2">Masakan Keempat</h3>
+                <p class="text-gray-600">Deskripsi singkat tentang resep ini.</p>
+            </div>
+            <div class="bg-white rounded-lg shadow-lg p-4">
+                <img src="{{ asset('asset/c8d47cdf-dd2a-466d-9747-17a5d7fd860a.png') }}" alt="Masakan" class="w-full h-40 object-cover rounded-lg mb-4">
+                <h3 class="text-xl mb-2">Masakan Keempat</h3>
+                <p class="text-gray-600">Deskripsi singkat tentang resep ini.</p>
+            </div>
+            <div class="bg-white rounded-lg shadow-lg p-4">
+                <img src="{{ asset('asset/c8d47cdf-dd2a-466d-9747-17a5d7fd860a.png') }}" alt="Masakan" class="w-full h-40 object-cover rounded-lg mb-4">
+                <h3 class="text-xl mb-2">Masakan Keempat</h3>
+                <p class="text-gray-600">Deskripsi singkat tentang resep ini.</p>
+            </div>
         </div>
     </div>
 </section>
